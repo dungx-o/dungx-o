@@ -35,16 +35,8 @@ Having recently focused on building real-world AI applications using Agentic Fra
 ## 📊 GitHub Stats
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=dungx-o&show_icons=true&theme=radical&hide_border=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=dungx-o&show_icons=true&theme=default&hide_border=true">
-    <img src="https://github-readme-stats.vercel.app/api?username=dungx-o&show_icons=true&theme=default&hide_border=true" alt="Dũng's GitHub Stats" width="48%" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dungx-o&layout=compact&theme=radical&hide_border=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dungx-o&layout=compact&theme=default&hide_border=true">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dungx-o&layout=compact&theme=default&hide_border=true" alt="Top Languages" width="48%" />
-  </picture>
+  <img src="https://github-readme-stats.vercel.app/api?username=dungx-o&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&text_color=FFFFFF&icon_color=58A6FF&title_color=58A6FF" alt="Dũng's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dungx-o&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=58A6FF" alt="Top Languages" width="48%" />
 </div>
 
 ---
@@ -92,9 +84,9 @@ While I build applications on the AI Engineering side, I actively share technica
 
 Explore my latest posts and articles on [my LinkedIn](https://www.linkedin.com/in/dungx/):
 
-* 📘 **Overfitting & The 'No Free Lunch' Theorem**
-* 📘 **Types of Machine Learning: Categorization by Learning Style**
-* 📘 **The Definition of Machine Learning: From Arthur Samuel to Tom M. Mitchell**
+* 📘 **[Overfitting & The 'No Free Lunch' Theorem]([https://www.linkedin.com/posts/dungx_%F0%9D%97%A2%F0%9D%98%83%F0%9D%97%B2%F0%9D%97%BF%F0%9D%97%B3%F0%9D%97%B6%F0%9D%98%81%F0%9D%98%81%F0%9D%97%B6%F0%9D%97%BB%F0%9D%97%B4-%F0%9D%97%A7%F0%9D%97%B5%F0%9D%97%B2-%F0%9D%97%A1%F0%9D%97%BC-%F0%9D%97%99%F0%9D%97%BF%F0%9D%97%B2%F0%9D%97%B2-activity-7429424271552131072-XFsN/])**
+* 📘 **[Types of Machine Learning: Categorization by Learning Style]([https://www.linkedin.com/posts/dungx_types-of-ml-activity-7383896321050591232-aMuo/])**
+* 📘 **[The Definition of Machine Learning: From Arthur Samuel to Tom M. Mitchell]([https://www.linkedin.com/posts/dungx_def-of-ml-activity-7378349941288574976-yStY/])**
 
 ---
 

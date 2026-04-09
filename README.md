@@ -2,13 +2,25 @@
 
 ## Aspiring ML & AI Engineer | Computer Science Student at HUST
 
-[LinkedIn](https://www.linkedin.com/in/dungx/) | [Website](https://leanhdung.is-a.dev/) | [GitHub](https://github.com/dungx-o)
+<div align="left">
+  <a href="https://www.linkedin.com/in/dungx/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://leanhdung.is-a.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-Personal_Portfolio-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
+  </a>
+  <a href="https://github.com/dungx-o" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</div>
+
+<br>
 
 Passionate about Machine Learning and Applied AI. As a first-year Computer Science student at Hanoi University of Science and Technology, my current journey involves mastering Generative AI and Agentic Workflows to build practical applications, while simultaneously deep-diving into core Machine Learning algorithms and LLM Engineering.
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
 I am a Computer Science student at HUST with a strong mathematical foundation and a relentless curiosity for intelligent systems. My ultimate goal is to become a versatile **ML & AI Engineer**, capable of not just utilizing AI tools, but understanding and building the underlying models. 
 
@@ -20,13 +32,40 @@ Having recently focused on building real-world AI applications using Agentic Fra
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=dungx-o&show_icons=true&theme=radical&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=dungx-o&show_icons=true&theme=default&hide_border=true">
+    <img src="https://github-readme-stats.vercel.app/api?username=dungx-o&show_icons=true&theme=default&hide_border=true" alt="Dũng's GitHub Stats" width="48%" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dungx-o&layout=compact&theme=radical&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dungx-o&layout=compact&theme=default&hide_border=true">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dungx-o&layout=compact&theme=default&hide_border=true" alt="Top Languages" width="48%" />
+  </picture>
+</div>
+
+---
+
 ## 🚀 Key Areas of Expertise
 
-* **Machine Learning Foundations:** Actively studying and writing about ML concepts, algorithms, and model evaluation techniques.
-* **Generative AI & LLMs:** Deep understanding of Large Language Models, Generative AI concepts, Retrieval-Augmented Generation (RAG), and Prompt Engineering.
-* **AI Agents & Workflows:** Practical experience building and designing Artificial Intelligence (AI) agents, utilizing Agentic Workflows, and working with the Model Context Protocol (MCP).
-* **Programming & Core Tech:** Strong foundation in Mathematics, Python, and C programming languages.
-* **Cloud & Web Development:** Experience with general Web Development, Amazon Web Services (AWS), and WordPress.
+**🤖 Machine Learning & AI** <br>
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=google&logoColor=white" alt="Machine Learning">
+<img src="https://img.shields.io/badge/Generative%20AI-000000?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI">
+<img src="https://img.shields.io/badge/Large%20Language%20Models-4B32C3?style=for-the-badge" alt="LLMs">
+<img src="https://img.shields.io/badge/RAG-0078D4?style=for-the-badge" alt="RAG">
+<img src="https://img.shields.io/badge/AI%20Agents%20%26%20MCP-232F3E?style=for-the-badge" alt="AI Agents">
+
+**💻 Programming Languages** <br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
+
+**☁️ Tools & Platforms** <br>
+<img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
+<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress">
+<img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity">
 
 ---
 
@@ -53,9 +92,9 @@ While I build applications on the AI Engineering side, I actively share technica
 
 Explore my latest posts and articles on [my LinkedIn](https://www.linkedin.com/in/dungx/):
 
-* "Overfitting & The 'No Free Lunch' Theorem"
-* "Types of Machine Learning: Categorization by Learning Style"
-* "The Definition of Machine Learning: From Arthur Samuel to Tom M. Mitchell"
+* 📘 **Overfitting & The 'No Free Lunch' Theorem**
+* 📘 **Types of Machine Learning: Categorization by Learning Style**
+* 📘 **The Definition of Machine Learning: From Arthur Samuel to Tom M. Mitchell**
 
 ---
 
@@ -63,10 +102,9 @@ Explore my latest posts and articles on [my LinkedIn](https://www.linkedin.com/i
 
 I'm always open to discussing new ideas, potential collaborations, and opportunities in AI education and innovation.
 
-* **LinkedIn:** [linkedin.com/in/dungx/](https://www.linkedin.com/in/dungx/) (Primary platform for insights and networking)
-* **Personal Website & Blog:** [leanhdung.is-a.dev](https://leanhdung.is-a.dev/)
-* **GitHub:** [github.com/dungx-o](https://github.com/dungx-o)
 * **Email:** [leadungx@gmail.com](mailto:leadungx@gmail.com)
+* **LinkedIn:** [linkedin.com/in/dungx](https://www.linkedin.com/in/dungx/) 
+* **Website:** [leanhdung.is-a.dev](https://leanhdung.is-a.dev/)
 
 Feel free to reach out if you're interested in AI/ML development, research, or exploring how we can work together to build the future of intelligence.
 

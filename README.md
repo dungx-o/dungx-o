@@ -1,105 +1,76 @@
 # Lê Anh Dũng
 
-## Aspiring ML & AI Engineer | Computer Science Student at HUST
+## ML & AI Engineer | Generative AI • Agents • Applied AI
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/dungx/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://leanhdung.is-a.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/Website-Personal_Portfolio-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
-  </a>
-  <a href="https://github.com/dungx-o" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-</div>
+[LinkedIn](https://www.linkedin.com/in/dungx/) | [Website](https://leanhdung.is-a.dev/) | [GitHub](https://github.com/dungx-o)
 
-<br>
+I am a first-year Computer Science student at Hanoi University of Science and Technology (HUST), focused on Machine Learning and Applied AI.
 
-Passionate about Machine Learning and Applied AI. As a first-year Computer Science student at Hanoi University of Science and Technology, my current journey involves mastering Generative AI and Agentic Workflows to build practical applications, while simultaneously deep-diving into core Machine Learning algorithms and LLM Engineering.
+My current work centers on building AI agents and generative AI systems, while developing a strong foundation in core ML algorithms and LLM engineering.
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-I am a Computer Science student at HUST with a strong mathematical foundation and a relentless curiosity for intelligent systems. My ultimate goal is to become a versatile **ML & AI Engineer**, capable of not just utilizing AI tools, but understanding and building the underlying models. 
+I am a Computer Science student at HUST with a strong mathematical foundation, focused on understanding how intelligent systems are built and optimized.
 
-My academic background and mathematical problem-solving skills have been recognized through several awards:
-* **Third Prize** - Vietnam Mathematical Olympiad (2025)
-* **Silver Medal** - National Mathematics Olympiad for Students (High School Specialized Category - 2025)
+My goal is to become a versatile **ML & AI Engineer**, capable of both applying AI systems and building underlying models.
 
-Having recently focused on building real-world AI applications using Agentic Frameworks, I am now actively dedicating my time to exploring core Machine Learning foundations and advanced LLM concepts (RAG, fine-tuning). I am fluent in both Vietnamese and English, allowing me to easily access global AI research and share my insights with a diverse audience.
+**Achievements:**
 
----
+* Third Prize – Vietnam Mathematical Olympiad (2025)
+* Silver Medal – National Mathematics Olympiad (Specialized High School Category, 2025)
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dungx-o&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&text_color=FFFFFF&icon_color=58A6FF&title_color=58A6FF" alt="Dũng's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dungx-o&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=58A6FF" alt="Top Languages" width="48%" />
-</div>
+I am currently exploring core Machine Learning foundations and advanced LLM concepts such as RAG and fine-tuning.
 
 ---
 
 ## 🚀 Key Areas of Expertise
 
-**🤖 Machine Learning & AI** <br>
-<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=google&logoColor=white" alt="Machine Learning">
-<img src="https://img.shields.io/badge/Generative%20AI-000000?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI">
-<img src="https://img.shields.io/badge/Large%20Language%20Models-4B32C3?style=for-the-badge" alt="LLMs">
-<img src="https://img.shields.io/badge/RAG-0078D4?style=for-the-badge" alt="RAG">
-<img src="https://img.shields.io/badge/AI%20Agents%20%26%20MCP-232F3E?style=for-the-badge" alt="AI Agents">
-
-**💻 Programming Languages** <br>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
-
-**☁️ Tools & Platforms** <br>
-<img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
-<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress">
-<img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity">
+* **Machine Learning Foundations:** Studying ML algorithms, model evaluation, and generalization.
+* **Generative AI & LLMs:** Experience with LLMs, RAG, prompt engineering, and generative systems.
+* **AI Agents & Workflows:** Building AI agents, agentic workflows, and systems using MCP.
+* **Programming:** Python, C, strong mathematical background.
+* **Cloud & Infrastructure:** Experience using AWS for deploying AI systems.
 
 ---
 
 ## 🛠️ Highlighted Projects & Portfolio
 
-My current portfolio heavily reflects my recent focus on Applied AI and Agentic systems. As I continue to master core Machine Learning concepts, I look forward to adding more traditional ML-focused projects to this list. 
+You can find detailed descriptions on [my personal website](https://leanhdung.is-a.dev/):
 
-You can find detailed descriptions and insights on [my personal website](https://leanhdung.is-a.dev/):
+* **Agent Creator:** A modular framework for building and orchestrating AI agents using LLMs and structured workflows.
+* **Engineering Team Agent:** A system simulating collaborative AI workflows within an engineering environment.
+* **Sidekick Agent:** An assistant-style AI system designed for daily productivity tasks.
+* **Stock Picker Agent:** An autonomous AI system leveraging financial data and LLM-based reasoning for stock selection.
+* **SDR Agent:** An AI-powered sales automation system.
+* **Career Digital Twin:** A system modeling and simulating a user's career trajectory.
 
-* **Agent Creator:** A framework designed for building and managing custom AI agents.
-* **Engineering Team Agent:** A system simulating collaborative AI workflows within an engineering team.
-* **Sidekick Agent:** An intuitive, assistant-style AI system to help with daily tasks.
-* **Stock Picker Agent:** An autonomous decision-making AI agent specialized in financial data and stock picking.
-* **SDR Agent:** An AI-powered sales automation system (Sales Development Representative).
-* **Career Digital Twin:** An innovative AI model representing and simulating a user's professional profile and career trajectory.
-
-*(While this GitHub profile serves as a central point, detailed project showcases and some codebases may be private or hosted elsewhere. For specific inquiries, please reach out via Email or LinkedIn.)*
+Detailed project breakdowns and additional implementations are available on my personal website.
 
 ---
 
 ## ✍️ My Writings & Insights
 
-While I build applications on the AI Engineering side, I actively share technical articles documenting my journey into Machine Learning fundamentals. My goal is to demystify complex topics—from foundational ML theory to practical AI implementations.
+I document my journey into Machine Learning and AI through technical articles.
 
-Explore my latest posts and articles on [my LinkedIn](https://www.linkedin.com/in/dungx/):
+Explore my posts on LinkedIn:
 
-* 📘 **[Overfitting & The 'No Free Lunch' Theorem]([https://www.linkedin.com/posts/dungx_%F0%9D%97%A2%F0%9D%98%83%F0%9D%97%B2%F0%9D%97%BF%F0%9D%97%B3%F0%9D%97%B6%F0%9D%98%81%F0%9D%98%81%F0%9D%97%B6%F0%9D%97%BB%F0%9D%97%B4-%F0%9D%97%A7%F0%9D%97%B5%F0%9D%97%B2-%F0%9D%97%A1%F0%9D%97%BC-%F0%9D%97%99%F0%9D%97%BF%F0%9D%97%B2%F0%9D%97%B2-activity-7429424271552131072-XFsN/])**
-* 📘 **[Types of Machine Learning: Categorization by Learning Style]([https://www.linkedin.com/posts/dungx_types-of-ml-activity-7383896321050591232-aMuo/])**
-* 📘 **[The Definition of Machine Learning: From Arthur Samuel to Tom M. Mitchell]([https://www.linkedin.com/posts/dungx_def-of-ml-activity-7378349941288574976-yStY/])**
-
----
-
-## 🌐 Let's Connect & Collaborate!
-
-I'm always open to discussing new ideas, potential collaborations, and opportunities in AI education and innovation.
-
-* **Email:** [leadungx@gmail.com](mailto:leadungx@gmail.com)
-* **LinkedIn:** [linkedin.com/in/dungx](https://www.linkedin.com/in/dungx/) 
-* **Website:** [leanhdung.is-a.dev](https://leanhdung.is-a.dev/)
-
-Feel free to reach out if you're interested in AI/ML development, research, or exploring how we can work together to build the future of intelligence.
+* [Overfitting & The 'No Free Lunch' Theorem](https://www.linkedin.com/posts/dungx_%F0%9D%97%A2%F0%9D%98%83%F0%9D%97%B2%F0%9D%97%BF%F0%9D%97%B3%F0%9D%97%B6%F0%9D%98%81%F0%9D%98%81%F0%9D%97%B6%F0%9D%97%BB%F0%9D%97%B4-%F0%9D%97%A7%F0%9D%97%B5%F0%9D%97%B2-%F0%9D%97%A1%F0%9D%97%BC-%F0%9D%97%99%F0%9D%97%BF%F0%9D%97%B2%F0%9D%97%B2-activity-7429424271552131072-XFsN/)
+* [Types of Machine Learning: Categorization by Learning Style](https://www.linkedin.com/posts/dungx_types-of-ml-activity-7383896321050591232-aMuo/)
+* [The Definition of Machine Learning: From Arthur Samuel to Tom M. Mitchell](https://www.linkedin.com/posts/dungx_def-of-ml-activity-7378349941288574976-yStY/)
 
 ---
 
-*Note: The information regarding my projects and technical focus is continually updated as I progress through my academic journey at HUST and my dual paths in AI and ML Engineering. Last updated: April 2026.*
+## 🌐 Connect
+
+* LinkedIn: https://www.linkedin.com/in/dungx/
+* Website: https://leanhdung.is-a.dev/
+* GitHub: https://github.com/dungx-o
+* Email: [leadungx@gmail.com](mailto:leadungx@gmail.com)
+
+Open to collaborations in AI/ML, research, and applied systems.
+
+---
+
+*Last updated: April 2026*

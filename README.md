@@ -4,7 +4,8 @@ AI / ML Engineer (Aspiring) | LLMs & AI Agents
 
 ---
 
-LinkedIn | Personal Website | GitHub
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lê%20Anh%20Dũng-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/dungx/)
+[![Website](https://img.shields.io/badge/Website-Portfolio-green?style=flat-square&logo=google-chrome)](https://leanhdung.is-a.dev/)
 
 ---
 

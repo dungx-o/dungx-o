@@ -35,6 +35,24 @@ I am currently exploring core Machine Learning foundations and advanced LLM conc
 
 ---
 
+## ⚙️ Tech Stack
+
+* **Languages:** Python, C
+
+* **AI/ML:** PyTorch, Hugging Face Transformers, Fine-tuning (LoRA, QLoRA)
+
+* **LLM Systems:** RAG, Prompt Engineering, Context Management
+
+* **Agents & Orchestration:** LangChain, LangGraph, CrewAI, AutoGen, Model Context Protocol (MCP)
+
+* **Vector Databases:** FAISS
+
+* **APIs & Models:** OpenAI API, Hugging Face Hub
+
+* **Cloud & Deployment:** AWS
+
+---
+
 ## 🛠️ Highlighted Projects & Portfolio
 
 You can find detailed descriptions on [my personal website](https://leanhdung.is-a.dev/):
